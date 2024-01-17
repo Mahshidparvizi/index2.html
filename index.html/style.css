@@ -1,0 +1,61 @@
+*{
+    background-color: rgb(255, 238, 241);
+   direction: rtl;
+   
+}
+h1{
+    border-style: groove; 
+    border-color: rgb(255, 8, 160);
+  background-color: rgb(255, 194, 219);
+  text-align: center;
+  padding: 15px;
+}
+address{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: large;
+   background-color: rgb(255, 194, 219);
+padding: 10px;
+   margin: 500px;
+   margin-top: auto;
+   margin-bottom: auto;
+   border-style: groove;
+   border-radius: 5px;
+}
+#menu{ border-style: groove;
+   border-color: rgb(255, 8, 160);
+
+    padding-right: 25px;
+    padding: 20px;
+    font-size: larger;
+    padding-bottom: 2px;
+    margin-top: 20PX;
+    text-align: center;
+    
+}
+
+#slider{
+    float: left;
+    margin: 10%;
+    padding: 20px;
+    padding-top: 1PX;
+    margin-top: 40PX;
+    
+}
+ #services{
+    color: rgb(255, 0, 149);
+    font-size: larger;
+ font-weight: bolder;
+ 
+ }
+ ul{font-weight: bolder;
+    font-size: larger;
+    color: rgb(255, 51, 119);
+text-align:justify
+    
+ }
+ span{direction: ltr;}
+
+
+ hr{color: rgb(255, 43, 167);
+stroke-width: 15mm;}
